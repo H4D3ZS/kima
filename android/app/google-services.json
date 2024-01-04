@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "876065280786",
+    "project_id": "kima-f7d33",
+    "storage_bucket": "kima-f7d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876065280786:android:5a87baf629cbe288e9d9cb",
+        "android_client_info": {
+          "package_name": "com.kima.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876065280786-3922p5sh93qqnfe6kmvvr2nlgj9shi9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kima.app",
+            "certificate_hash": "c9628def8ab39da1f8ec0ec93a972c168b67665f"
+          }
+        },
+        {
+          "client_id": "876065280786-8f395cedi3rma5ik4vg3cmfmfnkins35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kima.app",
+            "certificate_hash": "dfdf845867e84f3957e9a1efe37152e64edcae38"
+          }
+        },
+        {
+          "client_id": "876065280786-o5tou2kpk81k6olsbvhn1k1i4he2p61b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kima.app",
+            "certificate_hash": "59dbf95927ca8045c4c36058b79e7c54f2297667"
+          }
+        },
+        {
+          "client_id": "876065280786-505fr8qsegpigaqm47u1t9u7ksth1chg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEuLwaS5khKJXOGNbdagYjMFNzPgZBxKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876065280786-505fr8qsegpigaqm47u1t9u7ksth1chg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876065280786-5l3kpt0keb3kfpom7nj39fe19qn6uccj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kima.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

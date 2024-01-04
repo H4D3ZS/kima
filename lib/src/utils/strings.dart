@@ -1,0 +1,1 @@
+const String msgSomethingWentWrong = 'Something went wrong. Please try again later';
